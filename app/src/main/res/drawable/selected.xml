@@ -3,11 +3,11 @@
  <item>
      <shape
          android:shape="ring"
-         android:thickness="8dp"
+         android:thickness="6dp"
          android:innerRadius="0dp"
          android:useLevel="false"
          >
-         <solid android:color="#C2C2C4"/>
+         <solid android:color="@color/jio_pink"/>
      </shape>
  </item>
 </layer-list>
